@@ -1,0 +1,176 @@
+[
+    {
+        "filterName": "Info",
+        "mainColor": {
+            "r": 0.462745100259781,
+            "g": 1.0,
+            "b": 0.0117647061124444,
+            "a": 0.501960813999176
+        },
+        "isStandardFilter": false,
+        "useAdvancedColors": true,
+        "customTextColor": {
+            "r": 0.462745100259781,
+            "g": 1.0,
+            "b": 0.0117647061124444,
+            "a": 1.0
+        },
+        "customBackgroundColor": {
+            "r": 0.21960785984993,
+            "g": 0.21960785984993,
+            "b": 0.21960785984993,
+            "a": 0.501960813999176
+        },
+        "searchList": [
+            {
+                "searchString": "INFO",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "5c965be2-d54b-45ab-84be-925ac778959b"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "4fce7077-6d3c-4e34-b789-d0b9af807b7e"
+                    }
+                ],
+                "name": null,
+                "isEnabled": true,
+                "collapsed": false,
+                "itemGUID": "dd50308e-abf7-4364-92e1-0b796fdaaba1"
+            }
+        ],
+        "showInToolbar": true,
+        "hideWhenNoMatches": false,
+        "name": "Info",
+        "isEnabled": true,
+        "collapsed": true,
+        "itemGUID": "41bfd6b3-1925-4277-9b0e-5c999c4f69f7"
+    },
+    {
+        "filterName": "TODO",
+        "mainColor": {
+            "r": 1.0,
+            "g": 0.596078455448151,
+            "b": 0.0,
+            "a": 0.501960813999176
+        },
+        "isStandardFilter": false,
+        "useAdvancedColors": true,
+        "customTextColor": {
+            "r": 1.0,
+            "g": 0.596078455448151,
+            "b": 0.0,
+            "a": 1.0
+        },
+        "customBackgroundColor": {
+            "r": 0.219607844948769,
+            "g": 0.219607844948769,
+            "b": 0.219607844948769,
+            "a": 0.501960813999176
+        },
+        "searchList": [
+            {
+                "searchString": "TODO",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "215da092-7761-4d14-8aa0-8d68f217cb26"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "6c87c5d0-19a9-4182-86d7-c4baf5553309"
+                    }
+                ],
+                "name": null,
+                "isEnabled": true,
+                "collapsed": false,
+                "itemGUID": "2cee2cae-8769-499e-8df5-a51cc3675906"
+            }
+        ],
+        "showInToolbar": true,
+        "hideWhenNoMatches": false,
+        "name": "TODO",
+        "isEnabled": true,
+        "collapsed": true,
+        "itemGUID": "f1def0d4-aa22-47f6-81bb-9082b71cc3c9"
+    },
+    {
+        "filterName": "NETWORK",
+        "mainColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 0.0980392172932625
+        },
+        "isStandardFilter": false,
+        "useAdvancedColors": false,
+        "customTextColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "customBackgroundColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "searchList": [
+            {
+                "searchString": "NETWORK",
+                "searchType": "Exact",
+                "removeSearchStringFromLog": false,
+                "logTypeList": [
+                    {
+                        "logType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "d1bef181-7e21-4d32-abb6-5c3f037b66ef"
+                    }
+                ],
+                "columnTypeList": [
+                    {
+                        "columnType": "Any",
+                        "name": null,
+                        "isEnabled": true,
+                        "collapsed": false,
+                        "itemGUID": "0d48cec6-0082-457f-a9e5-84c17a1c8799"
+                    }
+                ],
+                "name": null,
+                "isEnabled": true,
+                "collapsed": false,
+                "itemGUID": "87eb34cb-7fbb-4306-80a3-20f3bae8df7b"
+            }
+        ],
+        "showInToolbar": true,
+        "hideWhenNoMatches": false,
+        "name": "NETWORK",
+        "isEnabled": true,
+        "collapsed": true,
+        "itemGUID": "013abe6a-422b-4f21-9725-b666d58c0440"
+    }
+]
